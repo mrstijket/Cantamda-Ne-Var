@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: bunun gibisi
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Ama elinde bunun gibisi yoktur teyzem. Ayr\u0131ca eminim ki \xE7ok daha g\xFCzel
+    fincan tak\u0131mlar\u0131n vard\u0131 ama senin gelinler evlerine g\xF6t\xFCrmesin.\n"
+  - "Ah sorma yavrum. Ge\xE7en b\xFCy\xFCk o\u011Flan\u0131n gelin geldi. Anne diyo'
+    senin bu takma di\u015F g\xFCzel duruyomu\u015F ben onu bi' eve g\xF6t\xFCreyim. "
+  - "Dur yapma etme dedim ama ald\u0131 g\xF6t\xFCrd\xFC. Sa\u011Folsun bizim Nebahat'tan
+    \xF6d\xFCn\xE7 ald\u0131m, d\xF6n\xFC\u015F\xFCml\xFC kullan\u0131yoruz."
+  - "Ah teyzem ah. Bizim de Hayriye Teyze'mizin me\u015Feden tabutu vard\u0131.\r"
+  - "Masa yapmak i\xE7in o\u011Flu al\u0131p g\xF6t\xFCrm\xFC\u015Ft\xFC. Bi' de
+    internete falan koyacaklarm\u0131\u015F. Hay Allah."
+  - "Deme yavrum \xF6yle deme.\r"
+  - Olur teyzem.
+  - 
+  responses:
+  - responseText: "Ben sana biraz daha anlatay\u0131m bu fincanlar\u0131"
+    dialogueObject: {fileID: 11400000, guid: 00762c10c76b0444bb0ab7d93e5fe180, type: 2}
+  - responseText: "Aram\u0131zda kals\u0131n vampirler bu fincanlara bay\u0131l\u0131yorlar"
+    dialogueObject: {fileID: 11400000, guid: 7b866c9176d421d42a3a8e0fb365039c, type: 2}

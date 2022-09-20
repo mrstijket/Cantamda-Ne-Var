@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: tamamdir
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Aa tamamd\u0131r teyzecim \xF6yleyse. Yan tarafa Fatma Teyze'ye bi' bakay\u0131m."
+  - "Duydu\u011Fuma g\xF6re o da \xE7ok istiyormu\u015F bu fincanlardan.\r"
+  - "Bizim Teke Fatma'ya m\u0131 satacaks\u0131n? Dur hele. Ben biraz daha bakay\u0131m
+    \u015Fu fincanlara."
+  - "\u0130\u015Fte ge\xE7en bize geldi bu Fatma Kad\u0131n. Oturuyoruz dedi ki 2.50
+    alt\u0131 olan erkeklerin \xE7ok da \u015Fey olmas\u0131."
+  - "Ben dedim ki Allah Allah neme konu\u015Fuyo bu kad\u0131n. Bakt\u0131m susmuyor
+    kovdum kendisini."
+  - "Evveli daha da konu\u015Fmad\u0131k kendisiyle o zamandan beri. Erkek dedi\u011Fin
+    4 metreden a\u015Fa\u011F\u0131 olmayacak."
+  - "Do\u011Fru diyorsun teyzem.\r"
+  - "Sonra ge\xE7en Topal Ay\u015Fe geldi. G\xF6\u011F\xFCs dekoltesi ile s\u0131rt
+    dekoltesini kar\u015F\u0131la\u015Ft\u0131r\u0131yor."
+  - "\u0130kisi ayn\u0131 \u015Fey mi Ay\u015Fe'cim dedim? \u0130kisinin de tad\u0131
+    bir ayr\u0131 oluyor."
+  - "Utanmasa bir de gelip kal\xE7a ile g\xF6\u011Fs\xFC kar\u015F\u0131la\u015Ft\u0131racakt\u0131. "
+  - "\xC7ok hakl\u0131s\u0131n teyzecim.\r"
+  - "Dur bak hele bir tane daha var. Bizim Nebahat bi' adamla first date'e \xE7\u0131km\u0131\u015F
+    tamam m\u0131?"
+  - "Adam gitse n'apsa \u015Fa\u015F\u0131r\u0131rs\u0131n. L\xFCks bir restoranta
+    g\xF6t\xFCrm\xFC\u015F bizim Nebahat'i. Nebahat da kalkm\u0131\u015F gitmi\u015F."
+  - "Heh olsun o adama. \u0130nsan bir lahmacuncuya g\xF6t\xFCr\xFCr, k\xF6fte ekmek
+    yemeye g\xF6t\xFCr\xFCr. Ne \xF6yle l\xFCks \u015Feyler.\r"
+  - Hatta...
+  - 
+  responses:
+  - responseText: "Hesab\u0131 Nebahat teyze'ye \xF6detmi\u015Ftir bu adam"
+    dialogueObject: {fileID: 11400000, guid: 0dda7531627c8c04697a966b2d1e3d3b, type: 2}
+  - responseText: "Hesab\u0131 da kendisi \xF6demeye \xE7al\u0131\u015Fm\u0131\u015Ft\u0131r
+      bu adam."
+    dialogueObject: {fileID: 11400000, guid: 75dc3feb9d917ac40a36eba655786a06, type: 2}

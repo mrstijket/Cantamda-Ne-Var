@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: "c\u0131kart\u0131yorsun"
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - 
+  dialogue:
+  - "\xC7\u0131kart\u0131yorsunuz ceketinizi. T\xFCm g\xF6zler aras\u0131nda giyiyorsunuz."
+  - "Herkesin dibi d\xFC\u015F\xFCyor. Ahmet bir star. Ahmet adeta bir \"fey\u015F\u0131n
+    ikon\"."
+  - "\u0130nsanlar sizi k\u0131skan\u0131yor. \xC7ekemiyorlar. Siz onlar\u0131n aras\u0131nda
+    \u015Fahlan\u0131yor, sar\u0131 bir ampul gibi parl\u0131yorsunuz."
+  - "Her yer sizin \u0131\u015F\u0131\u011F\u0131n\u0131zla doluyor. Hasan Emmi bile
+    bunlar\u0131 g\xF6r\xFCnce giymek istiyor ceketinizi."
+  - Hasan bile mi?
+  - Evet Hasan bile!
+  - "Tamam ye\u011Fenim. Hele ver \u015Fu ceketi bakay\u0131m."
+  - "Tebrikler. 'Giyeni Belal\u0131 Bi' Tip Yapan Belal\u0131m Ceketi' Ahmet'e satt\u0131n."
+  responses: []

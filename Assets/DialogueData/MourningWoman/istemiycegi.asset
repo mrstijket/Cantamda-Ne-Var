@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: istemiycegi
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - Bahar
+  - 
+  dialogue:
+  - "Evet ama bu istemeyece\u011Fi anlam\u0131na gelmez.\r"
+  - "Ben babam\u0131n ne isteyip istemedi\u011Fini \xE7ok iyi biliyorum.\r"
+  - "Nedir o?\r"
+  - "Babam her zaman \u015F\xF6yle bir g\xFCzel s\u0131rt\u0131n\u0131 k\xFCtletmek
+    isterdi. Siz gelmeden az \xF6nce..."
+  - "...i\xE7eride onu yap\u0131yorlard\u0131 ama k\xFCtletirlerken kaza \xE7\u0131kt\u0131.
+    Eni\u015Ftemi hastanaye g\xF6t\xFCrd\xFCler."
+  - 
+  responses:
+  - responseText: "Ge\xE7mi\u015F olsun eni\u015Ftenize"
+    dialogueObject: {fileID: 11400000, guid: 38029ca24e2101549866b84da853d4df, type: 2}
+  - responseText: "Buralarda iyi bir mas\xF6r biliyorum"
+    dialogueObject: {fileID: 11400000, guid: 35c243055a69ba04c91fe808829eadc8, type: 2}

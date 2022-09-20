@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: sikilmak
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - 
+  dialogue:
+  - "Ama \xF6nemli de\u011Fil. Bir \u015Fey soraca\u011F\u0131m size. Hi\xE7 kendinizden
+    s\u0131k\u0131ld\u0131\u011F\u0131n\u0131z olmuyor mu?"
+  - "Kalkm\u0131\u015Fs\u0131n\u0131z ayn\u0131 sabaha. Ayn\u0131 yatak, ayn\u0131
+    \xE7ar\u015Faf. G\xFCne\u015F yine do\u011Fuyor batmak \xFCzere. Siz yine ayn\u0131."
+  - "Ge\xE7en g\xFCnden hi\xE7bir \u015Fey de\u011Fi\u015Fmemi\u015F. Ayn\u0131 o
+    asla dolmayan i\xE7inizdeki bo\u015Fluk. Kendinizi hi\xE7bir yere ait hissedememeniz. "
+  - "Y\xFCr\xFCd\xFC\u011F\xFCn\xFCz sokaklar, girdi\u011Finiz mekanlar. Hi\xE7biri
+    ama hi\xE7biri sizi tatmin edemiyor. Size yetemiyor."
+  - "Ama ah bir ceketiniz olsa. \xDCstelik b\xF6yle bir ceket. Nas\u0131l da her
+    \u015Fey d\xFCzeliverirdi.  "
+  - "Yok. D\xFCzelmezdi ye\u011Fenim."
+  - 
+  responses:
+  - responseText: "Bu par\u0131lt\u0131l\u0131 ta\u015Flarla bile mi?"
+    dialogueObject: {fileID: 11400000, guid: 71126a86a4fb61467b132c41613410f6, type: 2}
+  - responseText: "Hi\xE7 mi?"
+    dialogueObject: {fileID: 11400000, guid: b30bc8e14d8ccd412a2bb48d502ee74a, type: 2}
+  - responseText: "\u0130svi\xE7reli bilim insanlar\u0131 \xF6yle demiyor"
+    dialogueObject: {fileID: 11400000, guid: 1e4454a32ecdce48c9f4b5fd2812f551, type: 2}

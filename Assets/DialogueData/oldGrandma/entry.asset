@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: entry
+  m_EditorClassIdentifier: 
+  title:
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - 
+  dialogue:
+  - "Merhaba evlad\u0131m, ne istemi\u015Ftin?\r"
+  - "Merhaba teyzecim. Nas\u0131ls\u0131n, umar\u0131m iyisindir. Torun torba da
+    iyidir in\u015Fallah."
+  - "Elimde \xE7ok g\xFCzel bir fincan tak\u0131m\u0131 var. Tek kald\u0131. Senin
+    gibi g\xFCzel bir teyzemin eline ge\xE7mesini isterim\r."
+  - "Yavrum evimde yeterince fincan tak\u0131m\u0131m var. Sa\u011Folas\u0131n."
+  - 
+  responses:
+  - responseText: Ama elinde bunun gibisi yoktur
+    dialogueObject: {fileID: 11400000, guid: 47aa8f1624b0d5d4e82b7b77652c7a12, type: 2}
+  - responseText: "Tamamd\u0131r \xF6yleyse, yan tarafta Fatma teyzeye bi' bakay\u0131m"
+    dialogueObject: {fileID: 11400000, guid: 0c5ed6e4668b3954f88056db50075210, type: 2}

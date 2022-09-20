@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: hangimizkor
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - 
+  dialogue:
+  - "Hangimiz zaten k\xF6r de\u011Filiz ki d\xFCnyan\u0131n ger\xE7eklerine? \r"
+  - "K\xF6r olmasak ne olur ki? G\xF6rsek iyi bir \u015Fey mi g\xF6rece\u011Fiz.\r"
+  - "Ben g\xF6r\xFCyorum da ne oluyor. \u015Eu g\xF6zleri a\u011Flamak d\u0131\u015F\u0131nda
+    neye kulland\u0131k ki.\r\n"
+  - "Yakt\u0131n beni be Hakan'\u0131m.\r"
+  - "Ge\xE7en de \u015Fu g\xF6zl\xFC\u011F\xFC ald\u0131m,  satmaya \xE7al\u0131\u015F\u0131yorum.
+    Hayat\u0131mdan daha renkli yemin ederim."
+  - "Nas\u0131l bir g\xF6zl\xFCkm\xFC\u015F o?\r"
+  - "Baksana.\r"
+  - "Versene bi'.\r"
+  - "Al bak.\r"
+  - "...\r"
+  - "...\r"
+  - "Beni de delirttin anas\u0131n\u0131 satay\u0131m. <g\xFCler>\r"
+  - "Harbi yak\u0131\u015Ft\u0131 ama ha.\r"
+  - "Yemin et.\r"
+  - "Valla.\r"
+  - "Apa\xE7ilik kanunlar\u0131 \xFCzerine yemin et.\r"
+  - "Babet \xE7orap \xFCzerine yemin ederim.\r"
+  - "Harbi kral adams\u0131n Hakan. Ver bakay\u0131m \u015Fu g\xF6zl\xFC\u011F\xFC."
+  - "Tebrikler. 'Renk K\xF6rl\xFC\u011F\xFCne \u0130yi Gelen T\xFCyl\xFC G\xF6zl\xFC\u011F\xFC'
+    Selim'e satmay\u0131 ba\u015Fard\u0131n."
+  responses: []

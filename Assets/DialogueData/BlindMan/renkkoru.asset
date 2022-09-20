@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: renkkoru
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Selim
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - 
+  dialogue:
+  - "\u0130\u015Fte bu \xFCr\xFCn renk k\xF6rl\xFC\u011F\xFCne de iyi geliyor bak\u0131n.
+    <G\xF6zl\xFC\u011F\xFC takar.>\r"
+  - ...
+  - "Bi' \u015Fey de\u011Fi\u015Fmedi?\n"
+  - "Renk k\xF6r\xFC de\u011Filsiniz demek ki! Ne g\xFCzel!"
+  - "Benimle ta\u015Fak m\u0131 ge\xE7iyosun lan!\r"
+  - "Ne m\xFCnasebet! Sizin ad\u0131n\u0131za seviniyorum sadece hem g\xF6zl\xFCk
+    de \xE7ok iyi duruyor. Ayna g\xF6stereyim mi?"
+  - "Ak\u0131ll\u0131s\u0131 bizi bulmaz, delisi g\xF6t\xFCm\xFCzden ayr\u0131lmaz.
+    Hadi karde\u015Fim yoluna, git ba\u015Fkas\u0131yla u\u011Fra\u015F."
+  - "Ne yaz\u0131k ki 'Renk K\xF6rl\xFC\u011F\xFCne \u0130yi Gelen T\xFCyl\xFC G\xF6zl\xFC\u011F\xFC'
+    satamad\u0131n.\nBir daha dene."
+  responses: []

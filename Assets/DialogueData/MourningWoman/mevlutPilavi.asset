@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: mevlutPilavi
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Mevl\xFCt pilav\u0131 i\xE7in gelmi\u015Ftim.\r"
+  - "Pilav\u0131m\u0131z kalmad\u0131 kusura bakmay\u0131n.\r"
+  - "Sorun de\u011Fil."
+  - "Ba\u015F\u0131n\u0131z sa\u011Folsun."
+  - 
+  responses:
+  - responseText: "Merhumu tabutundan \xE7\u0131karacak tatl\u0131l\u0131kta bir
+      \xFCr\xFCn var"
+    dialogueObject: {fileID: 11400000, guid: 2e63cfab718dc2f43b88c73f7516418a, type: 2}
+  - responseText: Nesi oluyordunuz?
+    dialogueObject: {fileID: 11400000, guid: d11d005f333a9834b8fb02da7445db44, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: kefen
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - Ahmet
+  - Ahmet
+  - 
+  dialogue:
+  - "Evet \xF6yle efendim. Demedi demeyin. Kefen niyetine bile kullan\u0131rs\u0131n\u0131z.
+    Cehennem ate\u015Finden korur."
+  - "Cehenem ate\u015Fi mi? Ye\u011Fenim her gece t\xF6vbe ediyorum ben g\xFCnah
+    i\u015Fledikten sonra."
+  - "Hatta bazen \"testi k\u0131r\u0131lmadan\" misali \xF6nce t\xF6vbe ediyorum
+    sonra ne yapacaksam yap\u0131yorum. "
+  - "Neme laz\u0131m bu ceket. Bo\u015F i\u015Flerle u\u011Fra\u015Ft\u0131rma beni."
+  - "Ne yaz\u0131k ki 'Giyeni Belal\u0131 Bi' Tip Yapan Belal\u0131m Ceketi' satamad\u0131n.
+    Bir daha dene."
+  responses: []

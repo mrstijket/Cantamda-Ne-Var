@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: saka
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - 
+  dialogue:
+  - "\u015Eaka \u015Faka. Sen g\xF6rd\xFC\u011F\xFCn adama selam vermeden ge\xE7er
+    misin hi\xE7?\r"
+  - "G\xF6rd\xFC\u011F\xFCm adam m\u0131?\r"
+  - "Evet. \r"
+  - "He \u015Faka yap\u0131yorsun yine di' mi? K\xF6r adamla dalga m\u0131 ge\xE7ilir
+    ay\u0131p be!"
+  - "K\u0131zma hemen. Sahilde de yapm\u0131\u015Ft\u0131k ayn\u0131 espiriyi.\r"
+  - "Raketle Kenan'\u0131n kafas\u0131n\u0131 yard\u0131\u011F\u0131m\u0131z g\xFCn
+    m\xFC?\r"
+  - "Hangi g\xFCn?\r"
+  - "Yahu bana Apa\xE7i Selim dedikleri i\xE7in birine b\u0131\xE7ak \xE7ekmi\u015Ftin
+    ben de raketi alm\u0131\u015Ft\u0131m tam o arada Kenan girmi\u015Fti araya hani?"
+  - ...
+  - "Hat\u0131rlad\u0131m.\n"
+  - "Ne e\u011Flenmi\u015Ftik be! \r"
+  - ...
+  - 'Selim?
+
+'
+  - "Efendim.\r"
+  - "Onu bunu b\u0131rak da bende baya iyi bi' g\xF6zl\xFCk var. Onu sana sat\u0131y\u0131m.\r"
+  - "G\xF6zl\xFCk m\xFC?"
+  - 
+  responses:
+  - responseText: "G\xF6zl\xFCk. \u0130yi de duruyor"
+    dialogueObject: {fileID: 11400000, guid: 02d88e6e2025e7843805ef171088c0ae, type: 2}
+  - responseText: "G\xF6zl\xFCk. K\xF6r adam g\xF6zl\xFCks\xFCz olur mu?"
+    dialogueObject: {fileID: 11400000, guid: 7ccfdedf5eb317b42a48b496f617a01d, type: 2}

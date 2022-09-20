@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: uzgunum
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "\xDCzg\xFCn\xFCm efendim. San\u0131r\u0131m zor bir hayat\u0131n\u0131z olmu\u015F.
+    Sizi \xE7ok iyi anl\u0131yorum. Bilirim nas\u0131l oldu\u011Funu. "
+  - "Benim gen\xE7li\u011Fimde de k\u0131z arkada\u015F\u0131m hi\xE7 fileli \xE7orap
+    giymezdi. \xC7ok zor g\xFCnlerdi. Hala ac\u0131s\u0131n\u0131 ta derinden hissederim."
+  - 
+  responses:
+  - responseText: "Bu ceketi satarsam onun an\u0131s\u0131na kendime \xE7orap al\u0131r\u0131m"
+    dialogueObject: {fileID: 11400000, guid: 088506433306fe40f906e424d107c6ff, type: 2}
+  - responseText: "Ama inan\u0131n bana sizi anl\u0131yorum"
+    dialogueObject: {fileID: 11400000, guid: b5d6fcd5a7bdc4509abe6a8a34704293, type: 2}

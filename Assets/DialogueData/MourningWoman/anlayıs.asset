@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: "anlay\u0131s"
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - 
+  dialogue:
+  - "L\xFCtfen anlay\u0131\u015Fl\u0131 olun. Siz hi\xE7 birisinden arzulad\u0131\u011F\u0131n\u0131z
+    anlay\u0131\u015F\u0131 bulup iyi hissetmediniz mi?\r"
+  - ...
+  - Hissetmediniz mi?
+  - "Beni kimse anlamad\u0131. Anlatt\u0131klar\u0131m dinlenmedi. Yapt\u0131klar\u0131mla
+    ilg...\r"
+  - "Evet anl\u0131yorum. Bence bu oyuncak ba\u015Fkalar\u0131n\u0131n vermedi\u011Fi
+    anlay\u0131\u015F\u0131 size verebilirdi.\r"
+  - "Ama ailemin arkada\u015Flar\u0131m\u0131n hatta kendimin bana vermedi\u011Fi
+    anlay\u0131\u015F\u0131 bu pelu\u015F oyuncak verebilir mi?"
+  - 
+  responses:
+  - responseText: "Hem de nas\u0131l!"
+    dialogueObject: {fileID: 11400000, guid: c48541cd51ac36c4aba9241b99c66c61, type: 2}
+  - responseText: "Hay\u0131r ama baksan\u0131za \xE7ok tatl\u0131 bu.."
+    dialogueObject: {fileID: 11400000, guid: 4c30919beb16a9c4c99c77d36eb47d2b, type: 2}

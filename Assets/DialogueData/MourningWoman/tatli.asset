@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: tatli
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - Bahar
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - Bahar
+  - 
+  dialogue:
+  - "Hay\u0131r ama baksan\u0131za \xE7ok tatl\u0131 bi' \u015Fey bu. Baban\u0131zla
+    birlikte \xE7ok tatl\u0131 duracaklar."
+  - "Beyefendi bana \u015Faka m\u0131 yap\u0131yorsunuz?  "
+  - "Gelmi\u015Fsiniz cenaze g\xFCn\xFCnde bana bu pelu\u015F oyunca\u011F\u0131
+    satmaya \xE7al\u0131\u015F\u0131yorsunuz."
+  - "Herkesin bildi\u011Fi gibi pelu\u015F bir k\xF6pekbal\u0131\u011F\u0131 bu \xE7irkin
+    oyuncaktan kat kat daha tatl\u0131d\u0131r.\r"
+  - "Ama \xF6yle derseniz \xE7ok \xFCz\xFCl\xFCr.\r"
+  - "\u0130stedi\u011Fi kadar \xFCz\xFClebilir."
+  - "Bu garip yarat\u0131\u011F\u0131 alm\u0131yorum. \u0130yi g\xFCnler dilerim!"
+  - "Ne yaz\u0131k ki 'D\xFCnyan\u0131n En \xC7irkin Pelu\u015F Oyunca\u011F\u0131n\u0131'
+    satamad\u0131n. Bir daha dene."
+  responses: []

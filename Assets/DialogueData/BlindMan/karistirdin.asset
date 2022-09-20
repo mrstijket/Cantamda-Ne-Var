@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: karistirdin
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - 
+  dialogue:
+  - "San\u0131r\u0131m ba\u015Fkas\u0131na benzettiniz.\r"
+  - "Benzetmi\u015Fimdir tabi! "
+  - "Ben size elimdeki bu \xFCr\xFCn\xFC satmak i\xE7in gelmi\u015Ftim.\r"
+  - "Hangi \xFCr\xFCn\xFC?\r"
+  - "Bu \xFCr\xFCn\xFC.\r"
+  - "Tamam da ne \xFCr\xFCn\xFC?\r"
+  - "Elimdeki bu \xFCr\xFCn i\u015Fte beyefendi.\r"
+  - "Ya \xFCr\xFCn\xFC g\xF6remiyorum ben.\r"
+  - "Nas\u0131l g\xF6remezsiniz elimde tutuyorum ya i\u015Fte.\r"
+  - "K\xF6r\xFCm lan ben!"
+  - 
+  responses:
+  - responseText: "\u0130\u015Fte bu \xFCr\xFCn renk k\xF6rl\xFC\u011F\xFCne de iyi
+      geliyor"
+    dialogueObject: {fileID: 11400000, guid: b6a651996741d974fbde230b53fef562, type: 2}
+  - responseText: "\u0130\u015Fte bu \xFCr\xFCn, siz g\xF6remeseniz de sizi haval\u0131
+      g\xF6sterebilir"
+    dialogueObject: {fileID: 11400000, guid: 58e615ea872581342ad4f307af85235a, type: 2}

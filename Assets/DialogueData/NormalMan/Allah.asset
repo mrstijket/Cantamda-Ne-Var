@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: Allah
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - 
+  dialogue:
+  - "Allah'\u0131n sevdi\u011Fi kullar\u0131 b\xF6yle adland\u0131r\u0131l\u0131yor
+    efendim."
+  - "G\xFCzel g\xFCzel. Be\u011Fendim. Cuma'ya giderken giyerim ben bunu. Bizim cemaat
+    g\xF6rs\xFCn. Onlar da ister belki."
+  - "Tebrikler. 'Giyeni Belal\u0131 Bi' Tip Yapan Belal\u0131m Ceketi' Ahmet'e satt\u0131n."
+  responses: []

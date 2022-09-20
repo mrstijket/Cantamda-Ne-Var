@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: havali
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - Selim
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Selim
+  - 
+  dialogue:
+  - "\u0130\u015Fte bu \xFCr\xFCn, siz g\xF6remeseniz de sizi haval\u0131 g\xF6sterebilir!\r"
+  - "G\xF6sterir mi ger\xE7ekten?\r"
+  - "Tabi ki! Rengarenk bir g\xF6zl\xFCk bu. Sar\u0131lar, turuncular, maviler, ye\u015Filler...\r"
+  - "...\r"
+  - "G\xFCzel yani. \u0130yi durur."
+  - "Hatta isterseniz yoldan ge\xE7en bir kad\u0131na soral\u0131m.\r"
+  - "Soral\u0131m bakal\u0131m..\r"
+  - 
+  responses:
+  - responseText: "<Kad\u0131n sesi taklit et>"
+    dialogueObject: {fileID: 11400000, guid: 5b21efa093dd1474486cb95e8c617675, type: 2}
+  - responseText: "Gerek kalmad\u0131, \u015Fu kad\u0131n sizi nas\u0131l s\xFCzd\xFC
+      g\xF6rd\xFCn\xFCz m\xFC?"
+    dialogueObject: {fileID: 11400000, guid: 28447f81e4b3cdb4e92effd0abc1223f, type: 2}

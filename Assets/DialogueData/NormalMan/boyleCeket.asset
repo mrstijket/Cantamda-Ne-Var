@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: boyleCeket
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - Ahmet
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "B\xF6yle bir ceketi bile mi? Baksan\u0131za \u015Funun duru\u015Funa sizi 40
+    y\u0131l gen\xE7le\u015Ftirirdi."
+  - "Evet, gelecek kayg\u0131s\u0131 duymaya daha giymeden ba\u015Flad\u0131m. "
+  - "Aile bask\u0131s\u0131, hayal k\u0131r\u0131kl\u0131klar\u0131, uykusuz geceler,
+    yaln\u0131zl\u0131k ve apayr\u0131 dertler. Hepsini g\xF6r\xFCr gibi oldum."
+  - "Durun efendim \xF6yle \u015Fey mi olur? Gen\xE7lik dedi\u011Finiz sadece bunlardan
+    ibaret mi? "
+  - "\u0130yi dedin. De\u011Fil. Anla\u015F\u0131lamamak, bir ba\u015Fkas\u0131 i\xE7in
+    u\u011Fra\u015F\u0131p kendine yarar\u0131n\u0131n dokunamamas\u0131, terk edilmek
+    ve \xF6l\xFCm..."
+  - ...
+  - 
+  responses:
+  - responseText: "Anl\u0131yorum, ama \u015Funun arkas\u0131ndaki s\xFCslere bakar
+      m\u0131s\u0131n\u0131z?"
+    dialogueObject: {fileID: 11400000, guid: 7c2eb1a504f158989b0cad7974d0c6a4, type: 2}
+  - responseText: "\xDCzg\xFCn\xFCm efendim, san\u0131r\u0131m zor bir hayat\u0131n\u0131z
+      olmu\u015F."
+    dialogueObject: {fileID: 11400000, guid: 1e6368a95ed4cb4ce947f1b18004d681, type: 2}

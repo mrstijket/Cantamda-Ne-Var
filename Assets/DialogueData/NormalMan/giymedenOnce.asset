@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: giymedenOnce
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Bu ceketi giymeden \xF6nce onlar da b\xF6yle diyorlard\u0131. Muhte\u015Fem
+    bir ceket."
+  - "Bunu \xFCreten makineler bozuldu o derece. Bak\u0131n sizden makinenin \xFCcretini
+    de istemiyorum."
+  - 
+  responses:
+  - responseText: "Satt\u0131\u011F\u0131m bir m\xFC\u015Fterim var. Her g\xFCn giyiyor.."
+    dialogueObject: {fileID: 11400000, guid: e7fd30120bd4f1aa488d7c1398477d4a, type: 2}
+  - responseText: "Biliyorsunuz makinelerin icad\u0131 ile seri \xFCretim ba\u015Flad\u0131."
+    dialogueObject: {fileID: 11400000, guid: a5444343122883564a38efde23fc59a9, type: 2}

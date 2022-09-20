@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: fazladan
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - 
+  dialogue:
+  - "Ben sana fazladan sataca\u011F\u0131m teyzem. \u0130steyene verirsin."
+  - "Seninkinin mezar\u0131n\u0131 da b\xF6ylece korumu\u015F oluruz.\r"
+  - "Olmaz yavrum ben \xF6yle g\xFCvenemem. Sonra ben \xF6l\xFCnce de benim kafatas\u0131mdan
+    yapmaya \xE7al\u0131\u015F\u0131rlar."
+  - "Kafatas\u0131m\u0131 ma\u015Frapa niyetine kullan\u0131r bu hay\u0131rs\u0131zlar."
+  - "En iyisi mi yavrum, ben almayay\u0131m bunlar\u0131. Sen de Allah'a emanet ol,
+    yolun a\xE7\u0131k olsun."
+  - "Ne yaz\u0131k ki. 'Ger\xE7ek \u0130nsan Kemiklerinden \u0130skeletor Fincan
+    Tak\u0131m\u0131n\u0131' satmay\u0131 ba\u015Faramad\u0131n."
+  responses: []

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: "aileBabas\u0131"
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - Ahmet
+  - Ahmet
+  - 
+  dialogue:
+  - "\u0130yi aile babas\u0131 anlam\u0131na geliyor efendim."
+  - "Yak\u0131\u015F\u0131r da bana ha! Nas\u0131l s\u0131cak tutar de' mi i\xE7i?"
+  - "Mangal yaparken esiyor bazen. \xD6n\xFCmde ate\u015F var amma s\u0131rt\u0131m
+    a\xE7\u0131kta kal\u0131yor, \xFC\u015F\xFCyorum. "
+  - "Kal\u0131n da duruyor. Uzat da alay\u0131m bu ceketi."
+  - "Tebrikler. 'Giyeni Belal\u0131 Bi' Tip Yapan Belal\u0131m Ceketi' Ahmet'e satt\u0131n."
+  responses: []

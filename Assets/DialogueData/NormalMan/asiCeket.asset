@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: asiCeket
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - Ahmet
+  - Ahmet
+  - Ahmet
+  - 
+  dialogue:
+  - "Akl\u0131n\u0131za ceketiniz gelir. Ancak! Bu ceket b\xF6yle zamanlar i\xE7in
+    de\u011Fil. Asla de\u011Fil!"
+  - "Bu ceket ne kadar asi oldu\u011Funuzu g\xF6stermek, toplumun yap\u0131s\u0131n\u0131
+    ve kurallar\u0131n\u0131 reddetmek, kendi ki\u015Fili\u011Finizi olu\u015Fturmak
+    ad\u0131na \xFCretildi."
+  - "Toplumun yap\u0131s\u0131n\u0131 reddetmek de neymi\u015F! Sen beni ne zannettin
+    be adam!"
+  - "Sat\u0131c\u0131y\u0131m diye geldin buraya. Ba\u015Fka bir amac\u0131n m\u0131
+    var? Sen de onlardans\u0131n de\u011Fil mi?"
+  - "Ba\u015Faramayacaks\u0131n\u0131z. Bizi bozamayacaks\u0131n\u0131z. Benim dedem
+    zaman\u0131nda mermiye kafa att\u0131 kafa!"
+  - "\xC7abuk, han\u0131m benim emaneti getirmeden git buradan."
+  - "Ne yaz\u0131k ki 'Giyeni Belal\u0131 Bi' Tip Yapan Belal\u0131m Ceketi' satamad\u0131n.\nBir
+    daha dene."
+  responses: []

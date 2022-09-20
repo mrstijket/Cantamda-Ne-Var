@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: anliyorum
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - Ahmet
+  - 
+  dialogue:
+  - "Evet. Evet, anl\u0131yorum... Ama \u015Fu arkas\u0131ndaki yaz\u0131ya bakar
+    m\u0131s\u0131n\u0131z! Bu ta\u015Flar. i\u015Flemeli, s\xFCsl\xFC, par\u0131lt\u0131l\u0131
+    ta\u015Flar..."
+  - ...
+  - "Ti... Te... T\u0131raub... Ne demek bu ye\u011Fenim? "
+  - 
+  responses:
+  - responseText: "\u0130yi aile babas\u0131 demek"
+    dialogueObject: {fileID: 11400000, guid: e367516cc787a7e9484803f62dfe7bd7, type: 2}
+  - responseText: "Sorun \xE7\u0131karan tiplere deniyor"
+    dialogueObject: {fileID: 11400000, guid: 70bebcab5855caf8d99d7d7435ca35bf, type: 2}
+  - responseText: "Allah'\u0131n sevdi\u011Fi kullar\u0131 b\xF6yle adland\u0131r\u0131l\u0131yor"
+    dialogueObject: {fileID: 11400000, guid: 1eca6f8ccf91708f1be8935f491484f6, type: 2}

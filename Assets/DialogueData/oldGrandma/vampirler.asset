@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: vampirler
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - 
+  dialogue:
+  - "Aram\u0131zda kals\u0131n vampirler bu fincanlara bay\u0131l\u0131yorlar. \xD6yle
+    art\u0131k boyundan emmeli g\xF6mmeli kan i\xE7me i\u015Fleri bitti."
+  - "Efendi gibi fincanlar\u0131na d\xF6k\xFCyorlar. Ka\xE7 bin y\u0131ld\u0131r
+    hep ayn\u0131 terane. Bi' de var ya bu vampiler kadar muhafazakar\u0131 yok."
+  - "Yok t\xF6reymi\u015F, yok gelenekmi\u015F. Binlerce y\u0131ld\u0131r ya\u015F\u0131yorsun,
+    yapt\u0131\u011F\u0131n tek bir yenilik yok. Bu fincanlar\u0131 da ben getirdim
+    ha."
+  - "Biz de olmasak \xF6yle boyundan emerken a\u011F\u0131zlar\u0131na y\xFCzlerine
+    bula\u015Facakt\u0131. Yerlere d\xF6k\xFCl\xFCp israf olacakt\u0131.\r"
+  - "Allah senden raz\u0131 olsun o\u011Flum ama sonra mahallelinin diline d\xFC\u015Fmeyelim
+    satanist teyze diye."
+  - "Olur mu hi\xE7 teyzem \xF6yle? Herkes sizi k\u0131skanacak. Alt\u0131n g\xFCnlerinizi
+    s\xFCsleyecek."
+  - "Torunlar\u0131n\u0131z\u0131n sizi daha fazla ziyaret etmesini sa\u011Flayacak.
+    Ge\xE7en senden iyi olmas\u0131n bir teyzeme daha satt\u0131m."
+  - "Torunlar\u0131 o kadar \xE7ok be\u011Fenmi\u015F ki. Gitmi\u015Fler mezarl\u0131\u011F\u0131
+    ya\u011Fmalam\u0131\u015Flar."
+  - "Kendileri yapmaya \xE7al\u0131\u015Fm\u0131\u015Flar. Ama tabi benim satt\u0131\u011F\u0131m
+    gibi olmam\u0131\u015F."
+  - "Aman yavrum benim adam\u0131n da mezar\u0131n\u0131 ya\u011Fmalamas\u0131nlar. "
+  - 
+  responses:
+  - responseText: "Ben sana fazladan sat\u0131cam teyzem"
+    dialogueObject: {fileID: 11400000, guid: 4decd70aab724604e84dfd82abe5b76b, type: 2}
+  - responseText: "Sen bana s\xF6yle, ben onlara uygun bir mezarl\u0131k s\xF6ylerim"
+    dialogueObject: {fileID: 11400000, guid: 4387f2a692600234393ddf62186a9204, type: 2}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: nesioluyordunuz
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - 
+  dialogue:
+  - "Merhumun nesi oluyordunuz?\r"
+  - "K\u0131z\u0131.\r"
+  - "Baban\u0131z ad\u0131na \xE7ok \xFCz\xFCld\xFCm, nesi vard\u0131?\r"
+  - "Kans\u0131zl\u0131k di\u011Fer hastal\u0131klar\u0131 tetikledi."
+  - "Teyzemgil Hortlak Cemile de kans\u0131zl\u0131k \xE7ekiyordu. Sizi anlayabiliyorum."
+  - "Baban\u0131z\u0131 geri getiremem ama sizin ve onun ho\u015Funa gidebilecek
+    bir \xFCr\xFCn\xFCm var.\r"
+  - "Babam \xF6lm\xFC\u015Fken bana bir \u015Fey mi satmaya \xE7al\u0131\u015F\u0131yorsunuz..?"
+  - 
+  responses:
+  - responseText: "Hay\u0131r sadece..."
+    dialogueObject: {fileID: 11400000, guid: da99b339caada1a4e912241b532ff8d5, type: 2}
+  - responseText: Evet, ama...
+    dialogueObject: {fileID: 11400000, guid: 36807e9ea4871874da126c7e668f2ca4, type: 2}

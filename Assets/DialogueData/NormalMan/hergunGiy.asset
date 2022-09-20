@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: hergunGiy
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - 
+  dialogue:
+  - "Satt\u0131\u011F\u0131m bir m\xFC\u015Fterim var. Her g\xFCn giyiyor. Ama her
+    g\xFCn. "
+  - "D\xFC\u011F\xFCn\xFCne de bu ceketle kat\u0131ld\u0131. Babas\u0131n\u0131n
+    cenazesine de."
+  - "Ge\xE7en sahilde g\xF6rd\xFCm. Denize de bu ceketle giriyordu."
+  - "Su ge\xE7irmez mi o ye\u011Fenim?"
+  - "Hay\u0131r efendim olur mu \xF6yle \u015Fey? TSE onayl\u0131 bu. Ate\u015F su
+    toprak, hi\xE7bir \u015Fey ge\xE7irmez."
+  - "Hatta ge\xE7en bunun testlerini izlemeye gittim. Sat\u0131r \xE7ektiler, f\xFCze
+    f\u0131rlatt\u0131lar. Bana m\u0131s\u0131n demedi ceket."
+  - "Allah allah. Kaliteli bir \u015Feye benziyo' bu."
+  - 
+  responses:
+  - responseText: "Kefen niyetine bile kullan\u0131rs\u0131n\u0131z.."
+    dialogueObject: {fileID: 11400000, guid: 4b9a845eca434dcac90e3bacb3a2e026, type: 2}
+  - responseText: "Kelebek B\u0131\xE7a\u011F\u0131na bile kafa at\u0131yor.."
+    dialogueObject: {fileID: 11400000, guid: fb37535535bc314b68c0d20fdb37402c, type: 2}

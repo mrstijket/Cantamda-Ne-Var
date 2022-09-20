@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: "elestiriAsas\u0131"
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Mustafa
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Mustafa
+  - "Sat\u0131c\u0131"
+  - Mustafa
+  - "Sat\u0131c\u0131"
+  - Mustafa
+  - 
+  dialogue:
+  - "\u0130\u015Fte tam bu noktada yan\u0131l\u0131yorsunuz efendim.."
+  - "Bu asa... elimde g\xF6rd\xFC\u011F\xFCn\xFCz bu asa. Anlatt\u0131klar\u0131m\u0131
+    ele\u015Ftirmek \xFCzere \xFCretildi.."
+  - "Bu bir prenses asas\u0131 de\u011Fil. Aksine prenseslere yap\u0131lan haks\u0131zl\u0131\u011F\u0131
+    duyurmak ad\u0131na \xFCretilen bir \xE7ubuk.\r"
+  - "Nas\u0131l bir haks\u0131zl\u0131ktan bahsediyoruz?"
+  - "\u0130ki dakika uzanm\u0131\u015Fs\u0131n\u0131zd\u0131r, ormanda dola\u015Fan
+    delinin biri gelip sizi \xF6pmeye \xE7al\u0131\u015F\u0131r.."
+  - "Canavar\u0131n birine a\u015F\u0131k olursunuz, i\xE7inden insan \xE7\u0131kar."
+  - "Sa\xE7\u0131m\u0131 uzat\u0131y\u0131m dersiniz, gelir biri merdiven gibi kullanmaya
+    \xE7al\u0131\u015F\u0131r."
+  - "Dola\u015F\u0131rken manyak kad\u0131n\u0131n biri sizi ba\u015Fka bir masal
+    evreninden d\xFCnyaya yollar."
+  - "\u0130ki dakika \u015Fark\u0131 s\xF6ylemeden duramazs\u0131n\u0131z."
+  - "Sonra gidip kurba\u011Fa \xF6pmek zorunda kal\u0131rs\u0131n\u0131z falan..."
+  - "Do\u011Fru s\xF6ze ne denir? Peki ben bu asay\u0131 al\u0131nca t\xFCm bunlar
+    bitecek mi?"
+  - 
+  responses:
+  - responseText: "Hay\u0131r ama..."
+    dialogueObject: {fileID: 11400000, guid: 46462981b6a224b4dabd1aece8c7ee4f, type: 2}
+  - responseText: Bitsin ister misiniz?
+    dialogueObject: {fileID: 11400000, guid: 2b9f5c0082062ae498e9eb621a61d883, type: 2}

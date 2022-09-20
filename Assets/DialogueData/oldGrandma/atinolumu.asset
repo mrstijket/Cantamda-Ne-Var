@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: atinolumu
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - 
+  dialogue:
+  - "At\u0131n \xF6l\xFCm\xFC arpadan olsun teyzem."
+  - "Heyt be o\u011Flum. Benim daha \xE7ok ya\u015Fayacak \xF6mr\xFCm var hem. Di\u011Ferleri
+    d\xFC\u015F\xFCns\xFCn. Bu fincanlarla sadece \xE7ay i\xE7meyece\u011Fim."
+  - "Bizim Nebahat'e diyim de her zamankinden haz\u0131rlas\u0131n bize. Hatta biraz
+    sert haz\u0131rlas\u0131n. Ge\xE7en bizim k\xFC\xE7\xFCk geline k\u0131zd\u0131m."
+  - "Facebook'daki dans videoma be\u011Feni atmam\u0131\u015F. Halbuki ne bi\xE7im
+    dans etmi\u015Ftim."
+  - "Olsun teyzecim, ben sana bu fincanlar\u0131 vereyim keyfin yerine gelsin.\r"
+  - "Ak\u015Fam Nebahat'layken senin i\xE7in de kald\u0131raca\u011F\u0131m evlad\u0131m.
+    Sa\u011Folas\u0131n, yolun a\xE7\u0131k olsun."
+  - "Tebrikler. 'Ger\xE7ek \u0130nsan Kemiklerinden \u0130skeletor Fincan Tak\u0131m\u0131n\u0131'
+    A\xE7elya'ya satmay\u0131 ba\u015Fard\u0131n."
+  responses: []

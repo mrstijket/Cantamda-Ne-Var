@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: anlatayim
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - 
+  dialogue:
+  - "Ben sana biraz daha anlatay\u0131m bu fincanlar\u0131. Bak \u015Fimdi bunlar
+    zaman\u0131nda Shakespeare'inmi\u015F. "
+  - "Bu fincanlardan \xE7ay i\xE7er, \u015Fiirler yazarm\u0131\u015F. Hatta derler
+    ki orijinalinde Hamlet kafatas\u0131n\u0131 de\u011Fil de bu fincan\u0131 eline
+    alm\u0131\u015F.\r"
+  - "Allah Allah..\r."
+  - "\xD6yle teyzem. Basit bir tak\u0131m de\u011Fil bu anlayaca\u011F\u0131n.\r"
+  - "Ama yavrum bu fincanlara bak\u0131nca \xF6l\xFCm\xFC hat\u0131rl\u0131yorum."
+  - 
+  responses:
+  - responseText: "At\u0131n \xF6l\xFCm\xFC arpadan olsun teyzem"
+    dialogueObject: {fileID: 11400000, guid: d49690089e4e5a0468c97ef9e787c487, type: 2}
+  - responseText: "\xD6l\xFCm tek ki\u015Filiktir, a\u015Fk iki ki\u015Filiktir teyzecim"
+    dialogueObject: {fileID: 11400000, guid: 8ee1c61ceb410854a820aec4a17ce730, type: 2}

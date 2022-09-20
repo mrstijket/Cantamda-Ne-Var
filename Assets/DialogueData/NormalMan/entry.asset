@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: entry
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Merhabalar efendim! Merhabalar. Nas\u0131ls\u0131n\u0131z, iyisinizdir umar\u0131m.
+    Muhte\u015Fem g\xF6z\xFCk\xFCyorsunuz. "
+  - 
+  responses:
+  - responseText: "\xDCzerinizdeki kazak ne kadar g\xFCzelmi\u015F.."
+    dialogueObject: {fileID: 11400000, guid: 213284ea60259b75bba9d978b5e3770f, type: 2}
+  - responseText: "M\xFCzik dinler misiniz?"
+    dialogueObject: {fileID: 11400000, guid: 77bb2b36331ff31f384f74e9e379d4a1, type: 2}

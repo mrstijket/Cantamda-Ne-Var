@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: asa
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Mustafa
+  - 
+  dialogue:
+  - "Evet. Prenses tac\u0131 ile \xE7ok g\xFCzel duracak bir asa.."
+  - "Ama ben ta\xE7 takmay\u0131 sevmem."
+  - 
+  responses:
+  - responseText: "Bence size ta\xE7 takmak \xE7ok yak\u0131\u015F\u0131rd\u0131.."
+    dialogueObject: {fileID: 11400000, guid: 7c793496a4144934699637fd885cae26, type: 2}
+  - responseText: "Tac\u0131n\u0131za uygun asan\u0131z yoktur belki.."
+    dialogueObject: {fileID: 11400000, guid: 05e318f5915cd314b9294232e1ff5053, type: 2}
+  - responseText: "Her prensesin bir tac\u0131 vard\u0131r!"
+    dialogueObject: {fileID: 11400000, guid: 7a90c3a3259392f41bc89ad7159335d8, type: 2}

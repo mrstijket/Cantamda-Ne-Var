@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: ayniSarkilari
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Hani isimleri de\u011Fi\u015Ftirip ayn\u0131 \u015Fark\u0131lar\u0131 yay\u0131nlad\u0131klar\u0131."
+  - ...
+  - "Ancak bu ceketse \xF6zel \xFCretildi. Size \xF6zel! Asla di\u011Fer ceketler
+    gibi de\u011Fil."
+  - "Hani bahar gelmi\u015Ftir..."
+  - 
+  responses:
+  - responseText: "D\u0131\u015Far\u0131da g\xFCne\u015F \u0131\u015F\u0131l \u0131\u015F\u0131ld\u0131r"
+    dialogueObject: {fileID: 11400000, guid: 77892ed01164e35b7b79b57a3061a48e, type: 2}
+  - responseText: "Sonra Ay\u015Fe gelir"
+    dialogueObject: {fileID: 11400000, guid: 7bddb4bff7fadf6ec81b69b31a7d3bc8, type: 2}

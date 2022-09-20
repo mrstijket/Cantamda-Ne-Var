@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: kendisiode
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - "A\xE7elya"
+  - "Sat\u0131c\u0131"
+  - "A\xE7elya"
+  - 
+  dialogue:
+  - "Hesab\u0131 da kendisi \xF6demeye \xE7al\u0131\u015Fm\u0131\u015Ft\u0131r bu
+    adam. "
+  - "Deme o\u011Flum vallahi \xF6yle. Bu i\u015Fin adab\u0131 first date'de hesap
+    \xF6denecekken el ele mekandan ka\xE7\u0131lmas\u0131d\u0131r."
+  - "Sevdim seni. \u015Eu fincan tak\u0131m\u0131n\u0131 kutusuna koy da bir ara
+    sen gelince onla \xE7ay ikram edeyim sana.\r"
+  - "Buyur teyzecim.\r"
+  - "Yolun a\xE7\u0131k olsun, kolay gelsin yavrum."
+  - "Tebrikler. 'Ger\xE7ek \u0130nsan Kemiklerinden \u0130skeletor Fincan Tak\u0131m\u0131n\u0131'
+    A\xE7elya'ya satmay\u0131 ba\u015Fard\u0131n."
+  responses: []

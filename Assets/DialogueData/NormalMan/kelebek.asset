@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: kelebek
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - 
+  dialogue:
+  - "Ge\xE7en \xFCzerimde ceket bizim Dursun \xE7ekti \xE7\u0131kard\u0131 kelebe\u011Fi.
+    \u015Eaka yollu bana saplamaya \xE7al\u0131\u015F\u0131yor. Bir \u015Feycik olmad\u0131.
+    Ne cekete ne bana. "
+  - "Ge\xE7en ba\u015Fka bir arkada\u015Fa yapm\u0131\u015Ft\u0131. Tabi bizimkinde
+    ceket yok, hastaneneye kald\u0131rd\u0131k arkada\u015F\u0131."
+  - "Ge\xE7mi\u015F olsun ye\u011Fenim. Sa\u011Flam bi' \u015Feye benziyor bu ceket.
+    \xC7al\u0131\u015F\u0131rken de laz\u0131m olur. Arkada\u015F\u0131n da tez zamanda
+    sa\u011Fl\u0131\u011F\u0131na kavu\u015Fur in\u015Fallah."
+  - "Tebrikler. 'Giyeni Belal\u0131 Bi' Tip Yapan Belal\u0131m Ceketi' Ahmet'e satt\u0131n."
+  responses: []

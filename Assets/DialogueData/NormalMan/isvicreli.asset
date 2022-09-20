@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: isvicreli
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - "Sat\u0131c\u0131"
+  - Ahmet
+  - Ahmet
+  - Ahmet
+  - 
+  dialogue:
+  - "Ama \u0130svi\xE7reli bilim insanlar\u0131n\u0131n ara\u015Ft\u0131rmalar\u0131na
+    g\xF6re bu ceketi giymek ruhsal sa\u011Fl\u0131\u011F\u0131 koruyor ve metabolizmay\u0131
+    d\xFCzenliyor."
+  - "Hatta kelli\u011Fe bile iyi geldi\u011Fi s\xF6yleniyor."
+  - "Belki bir g\xFCn, \xFCst\xFC a\xE7\u0131k araban\u0131zla g\xFCn bat\u0131m\u0131nda
+    ilerlerken at kuyru\u011Fu yapt\u0131\u011F\u0131n\u0131z sa\xE7\u0131n\u0131z\u0131
+    a\xE7\u0131p r\xFCzgarda dalgaland\u0131r\u0131rs\u0131n\u0131z."
+  - Hakket mi?
+  - Evet, tabi ki.
+  - "Denemedi\u011Fim kar\u0131\u015F\u0131m kalmam\u0131\u015Ft\u0131. Yok zeytinya\u011F\u0131ym\u0131\u015F,
+    yok kahveymi\u015F, yok sar\u0131msakm\u0131\u015F. Yemek mi yap\u0131yoruz Allah
+    a\u015Fk\u0131na!"
+  - "Ver bakal\u0131m \u015Fu ceketi. \u015Eimdiden giymeye ba\u015Flayay\u0131m
+    da tez zamanda \xE7\u0131ks\u0131n sa\xE7lar\u0131m."
+  - "Sonra da bizim berbere gidip boyat\u0131r\u0131m."
+  - "Tebrikler. 'Giyeni Belal\u0131 Bi' Tip Yapan Belal\u0131m Ceketi' Ahmet'e satt\u0131n."
+  responses: []

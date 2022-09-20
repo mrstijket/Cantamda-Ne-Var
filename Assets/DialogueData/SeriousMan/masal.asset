@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: masal
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Mustafa
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Mustafa
+  - 
+  dialogue:
+  - "Masallara inan\u0131r m\u0131s\u0131n\u0131z?"
+  - "Hay\u0131r."
+  - "Ben de. Hem ne \xF6yle u\xE7an atlar, g\xFCzel prensesler, yak\u0131\u015F\u0131kl\u0131
+    prensler.."
+  - "Yok sihirli asalar, de\u011Fnekler. Bunlar hep bo\u015F i\u015Fler..."
+  - "Bir de \xE7ocuklara okuyorlar da onlar\u0131n da beyinlerini y\u0131k\u0131yorlar."
+  - "Peki senin bana satmaya \xE7al\u0131\u015Ft\u0131\u011F\u0131n asa bunlardan
+    biri olmuyor mu?"
+  - 
+  responses:
+  - responseText: Evet
+    dialogueObject: {fileID: 11400000, guid: 8252418025ab9af4897301c07330eaaa, type: 2}
+  - responseText: "Hay\u0131r, tam tersi"
+    dialogueObject: {fileID: 11400000, guid: cd5d1160a6556ba4d937ca5e13cc54d5, type: 2}

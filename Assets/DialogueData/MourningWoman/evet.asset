@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: evet
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Evet ama \u015Funun tatl\u0131l\u0131\u011F\u0131na bakar m\u0131s\u0131n\u0131z?\r"
+  - "Benimle dalga m\u0131 ge\xE7iyorsunuz?\r"
+  - "Durun bir dakika l\xFCtfen kendimi a\xE7\u0131klamama izin verin."
+  - 
+  responses:
+  - responseText: "Baban\u0131z \xE7ok yaln\u0131zd\u0131 de\u011Fil mi? "
+    dialogueObject: {fileID: 11400000, guid: 92690befb70ac774689e25ea50b7b4e6, type: 2}
+  - responseText: "\u015Eof\xF6r Kharoon taraf\u0131ndan ruhunuz otob\xFCsle ta\u015F\u0131n\u0131yor.."
+    dialogueObject: {fileID: 11400000, guid: 5d840e7dbb1d6b04aa80655565f6d7f9, type: 2}

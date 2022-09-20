@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: "hay\u0131r"
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - 
+  dialogue:
+  - "Hay\u0131r sadece baban\u0131za tabutta e\u015Flik edecek bir dostla tan\u0131\u015Ft\u0131rmak
+    istiyorum sizi.\r\n"
+  - "Babam\u0131n bir dosta ihtiyac\u0131 yok. Sevenleri onu bu d\xFCnyada da di\u011Fer
+    d\xFCnyada da yaln\u0131z b\u0131rakmayacakt\u0131r.\r\n"
+  - "Ama pelu\u015F bir oyuncak seveni oldu\u011Funu sanm\u0131yorum."
+  - "Hem tabutunda \u015Fu an pelu\u015F oyuncaks\u0131z \xE7ok yaln\u0131z.\n"
+  - 
+  responses:
+  - responseText: "Adeta defalarca tekrarlanmam\u0131\u015F hatalar gibi.."
+    dialogueObject: {fileID: 11400000, guid: 9f3ce431ff522004cb37887468c90fa4, type: 2}
+  - responseText: "L\xFCtfen anlay\u0131\u015Fl\u0131 olun..."
+    dialogueObject: {fileID: 11400000, guid: ba08d39e876fd334e98e76618215c098, type: 2}

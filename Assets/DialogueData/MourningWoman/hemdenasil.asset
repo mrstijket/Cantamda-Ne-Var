@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ada7a45d85fa2643839f0f806a5d748, type: 3}
+  m_Name: hemdenasil
+  m_EditorClassIdentifier: 
+  title:
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - Bahar
+  - "Sat\u0131c\u0131"
+  - Bahar
+  - 
+  dialogue:
+  - "Hem de nas\u0131l? Bak\u0131n hemen \u015Fimdi. \xD6yle seminerlere para ak\u0131tmadan
+    nas\u0131l yapaca\u011F\u0131n\u0131z\u0131 anlat\u0131yorum."
+  - "Bu oyunca\u011F\u0131 al\u0131yorsunuz. Her anlay\u0131\u015Fa ihtiyac\u0131n\u0131z
+    oldu\u011Funda ona bak\u0131p..."
+  - "\"EY Y\xDCCE AHTAP... DAMLABALI\u011EI, bana anlay\u0131\u015F\u0131ndan ve
+    kudretinden bah\u015Fet\" diyorsunuz."
+  - "E\u011Fer bir \u015Feyler de\u011Fi\u015Fmediyse yanl\u0131\u015F yapm\u0131\u015Fs\u0131n\u0131zd\u0131r,
+    bir daha deneyin."
+  - "\xC7ok isterdim ancak babam\u0131n buna daha \xE7ok ihtiyac\u0131 var san\u0131r\u0131m.\n"
+  - "Ben kendimi kand\u0131rabilirim ancak babam tabutunda yapayaln\u0131z, pek bunu
+    yapamaz gibi duruyor.\r"
+  - "\xD6yleyse baban\u0131z bunu duyunca sevin\xE7ten hav... Tabutunda huzur bulacak.
+    yeniden ba\u015F\u0131n\u0131z sa\u011Folsun."
+  - "Sa\u011Folun, hep beraber."
+  - "Tebrikler. 'D\xFCnyan\u0131n En \xC7irkin Pelu\u015F Oyunca\u011F\u0131n\u0131'
+    Bahar'a satmay\u0131 ba\u015Fard\u0131n."
+  responses: []
